@@ -1,0 +1,1 @@
+Cbind_BIN_OTU_SEQ.r combines the OTUs, OTU sequences, OTU bins and OTU reads in each sample contained in input_OTUseq_template.csv, input_otu_abund_template.csv and input_bin_sumOTU_template.csv (output_bin_sumOTU_template.csv from TreFile2BinningOTU.r) for subsequent analysis.
